@@ -1,6 +1,6 @@
-## the code below projects populations using cohort change ratios (CCRs) by age/sex cohorts
+## the code below projects populations using cohort change ratios (CCRs) by age/sex/race/ethnicity cohorts
 ## the study area is a 23 county region surrounding coastal Georgia extending into FL and SC
-## county scale data from US Censuses 2000 and 2010 p12 tables
+## county scale data from US Censuses 2000 and 2010 pct12 tables
 
 rm(list=ls())
 

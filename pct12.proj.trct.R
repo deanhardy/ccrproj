@@ -1,5 +1,6 @@
-## set working directory on Windows
-setwd("C:/Users/dhardy/Dropbox/sesync/manuscripts/under_review_revision/slr_risk/data/R")
+## the code below projects populations using cohort change ratios (CCRs) by age/sex/race/ethnicity cohorts
+## the study area is a 23 county region surrounding coastal Georgia extending into FL and SC
+## tract scale data from US Censuses 2000 and 2010 pct12 tables
 
 rm(list=ls())
 
